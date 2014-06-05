@@ -1,0 +1,5 @@
+extrn
+extrn*darwin
+extrn*linux
+extrn*exe
+*~
